@@ -1,1 +1,2 @@
 teste git mini curso 2016
+exemplo de fetch e pull
