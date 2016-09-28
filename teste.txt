@@ -1,2 +1,3 @@
 teste git mini curso 2016
-estamos no branch testing
+estamos no branch master.
+git ammend
